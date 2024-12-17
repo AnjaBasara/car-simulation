@@ -1,0 +1,26 @@
+driver-turns-car-off, true
+driver-locks-doors, true
+driver-listen-cd, true
+drive," ""drive"""
+driver-lowers-windows," ""left"""
+add-fuel,0.1
+drive," ""drive"""
+driver-listen-spotify, true
+drive," ""stop"""
+drive," ""drive"""
+drive," ""drive"""
+drive," ""stop"""
+add-fuel,0.4
+drive," ""stop"""
+drive," ""stop"""
+drive," ""drive"""
+driver-raises-windows," ""left"""
+drive," ""drive"""
+driver-lowers-windows," ""left"""
+drive," ""drive"""
+drive," ""stop"""
+driver-raises-windows," ""left"""
+drive," ""stop"""
+drive," ""drive"""
+drive," ""drive"""
+drive," ""drive"""

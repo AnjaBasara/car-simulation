@@ -1,0 +1,10 @@
+Cannot add fuel while car is on!
+Cannot add fuel while car is on!
+Car status:
+- Doors: Unlocked
+- Car engine: Off
+- Entertainment: Off (CD)
+- Fuel level: 95%
+- Windows raised: Left - 0%, Right - 50%
+- Odometer: 125km
+

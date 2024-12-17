@@ -1,0 +1,15 @@
+driver-unlocks-doors, true
+driver-turns-car-on, true
+driver-listen-spotify, true
+driver-listen-cd, false
+drive," ""drive"""
+drive," ""drive"""
+drive," ""drive"""
+drive," ""drive"""
+drive," ""drive"""
+drive," ""stop"""
+add-fuel,0.5
+driver-turns-car-off, true
+add-fuel,0.5
+driver-turns-car-on, true
+driver-listen-spotify, false

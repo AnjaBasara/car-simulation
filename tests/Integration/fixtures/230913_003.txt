@@ -1,0 +1,8 @@
+Car status:
+- Doors: Locked
+- Car engine: Off
+- Entertainment: Off (Spotify)
+- Fuel level: 100%
+- Windows raised: Left - 100%, Right - 100%
+- Odometer: 0km
+

@@ -1,0 +1,24 @@
+driver-unlocks-doors, true
+driver-turns-car-on, true
+driver-listen-cd, true
+driver-listen-cd, false
+drive," ""drive"""
+drive," ""drive"""
+drive," ""drive"""
+drive," ""stop"""
+drive," ""drive"""
+add-fuel,1
+drive," ""stop"""
+add-fuel,1
+driver-turns-car-off, true
+add-fuel,1
+driver-turns-car-on, true
+drive," ""drive"""
+drive," ""stop"""
+driver-lowers-windows," ""left"""
+driver-lowers-windows," ""left"""
+driver-lowers-windows," ""left"""
+driver-lowers-windows," ""right"""
+driver-turns-car-off, true
+driver-lowers-windows," ""right"""
+driver-listen-spotify, true

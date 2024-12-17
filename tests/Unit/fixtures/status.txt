@@ -1,0 +1,7 @@
+Car status:
+- Doors: Locked
+- Car engine: Off
+- Entertainment: Off (Radio)
+- Fuel level: 50%
+- Windows raised: Left - 100%, Right - 100%
+- Odometer: 500km

@@ -1,0 +1,10 @@
+Fuel level too low!
+Cannot add fuel while car is on!
+Car status:
+- Doors: Unlocked
+- Car engine: On
+- Entertainment: On (Spotify)
+- Fuel level: 50%
+- Windows raised: Left - 100%, Right - 100%
+- Odometer: 100km
+

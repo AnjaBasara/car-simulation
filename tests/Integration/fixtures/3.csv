@@ -1,0 +1,7 @@
+driver-unlocks-doors, true
+driver-turns-car-on, true
+driver-listen-cd, true
+driver-listen-cd, false
+drive," ""drive"""
+drive," ""drive"""
+add-fuel,0.5
