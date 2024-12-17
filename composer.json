@@ -1,7 +1,7 @@
 {
     "name": "laravel/laravel",
     "type": "project",
-    "description": "Car simulator CLI app",
+    "description": "Car simulation CLI app",
     "keywords": [
         "laravel",
         "framework"
