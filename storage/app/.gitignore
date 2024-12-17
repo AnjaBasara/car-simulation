@@ -2,3 +2,7 @@
 !private/
 !public/
 !.gitignore
+
+# allow for the purpose of task
+!230913_003.csv
+!230913_011.csv

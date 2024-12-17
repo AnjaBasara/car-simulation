@@ -1,0 +1,31 @@
+driver-unlocks-doors, true
+driver-turns-car-on, true
+driver-listen-radio, true
+driver-listen-cd, true
+driver-listen-radio, false
+driver-listen-spotify, false
+driver-listen-spotify, true
+driver-turns-car-off, true
+driver-locks-doors, true
+driver-listen-cd, false
+drive," ""drive"""
+drive," ""stop"""
+drive," ""drive"""
+drive," ""stop"""
+drive," ""drive"""
+drive," ""stop"""
+add-fuel,0.5
+drive," ""drive"""
+drive," ""stop"""
+drive," ""drive"""
+drive," ""stop"""
+drive," ""drive"""
+drive," ""stop"""
+add-fuel,1
+drive," ""drive"""
+drive," ""stop"""
+drive," ""drive"""
+drive," ""stop"""
+drive," ""drive"""
+driver-turns-car-off, true
+driver-locks-doors, true
